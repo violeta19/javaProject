@@ -1,9 +1,11 @@
-package com.company;
+package com.company.lab1;
 
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// write your code heres
+        System.out.println("hello");
+        System.out.println("violeta");
         char myChar='a';
         byte myByte=123;
         short myShort=12345;
